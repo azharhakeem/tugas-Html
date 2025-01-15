@@ -1,0 +1,17 @@
+let namaDepan = "Azhar";
+let namaTengah = "Hakeem";
+let namaBelakang = "Widyananda";
+let alamat = "Jl Penggaron Regency RT7 RW3";
+let usia = "16";
+let ttl = "Semarang 1 Januari 2009";
+let gender = "Male";
+let Agama = "Islam";
+let email = "moontodakun44@gmail.com";
+let berat = "61";
+let Tinggi = "171";
+let hobi = "main game";
+let cita = "Collab bareng tanboy kun";
+let pekerjaan = "Pelajar";
+let sekolah = "SMKN 1 SAYUNG";
+let jurusan = "PPLG";
+document.write(" nama saya adalah " + namaDepan + " " + namaTengah + " " + namaBelakang + " Saya tinggal di " + alamat + " Pada tahun 2025 ini usia saya adalah " + usia + " Saya lahir di " + ttl + " gender saya adalah " + gender + " saya beragama " + Agama + " alamat email saya adalah " + email + " saya memiliki berat badan " + berat + " kg dengan tinggi " + Tinggi + " cm. Saya sangat senang " + hobi + " karena saya memiliki cita-cita " + cita + " saat ini saya adalah seorang " + pekerjaan + " yang bersekolah di " + sekolah + " pada jurusan " + jurusan);
